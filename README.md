@@ -53,7 +53,7 @@ Week 20: *shiny* Hacky Hour - this week's script is "app2.R", no recording, but 
 
 Week 21: [Spatial mapping in R: *leaflet*](https://vimeo.com/533702939)
 
-Week 22: [Wrangling messy datasets](https://vimeo.com/533703046)
+Week 22:[Wrangling messy datasets](https://vimeo.com/533703046)
 
-Week 23: Web pages with RMarkdown and GitHub Pages, *gt* tutorial. See . Samantha Csik and Juliette Verstaen's [GitHub Page](https://samanthacsik.github.io/RLadiesSB-sharing-analyses/)
+Week 23: Web pages using RMarkdown and GitHub Pages & *gt* tutorial. See . Samantha Csik and Juliette Verstaen's[GitHub Page](https://samanthacsik.github.io/RLadiesSB-sharing-analyses/)
 
