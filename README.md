@@ -59,3 +59,5 @@ Week 23: [Web pages using RMarkdown and GitHub Pages & *gt* tutorial](https://vi
 
 Week 24: [Data wrangling and Cleaning using *dplyr* and *stringr*](https://vimeo.com/559114221).
 
+Week 25: [GitHub tutorial: SSH keys, repo transfers](https://vimeo.com/561564864). See resources/GitHub_authentification_procedures.pdf and GitHub_transfer_repo_procedures.pdf for referece. 
+
